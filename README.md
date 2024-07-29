@@ -1,7 +1,4 @@
 Aqui está um exemplo de um README para um projeto de Sistema de Cadastro usando Python, Django e SQLite:
-
----
-
 # Sistema de Cadastro
 
 Este projeto é um sistema de cadastro básico construído com Python, Django e SQLite. Ele permite criar, ler, atualizar e deletar registros de usuários.
